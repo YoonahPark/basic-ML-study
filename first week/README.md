@@ -26,13 +26,9 @@
         
         `pip install jupyter notebook`
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/527f8b3c-8724-4b4b-afc7-2535211afd61/Untitled.png)
-        
     2. 가상환경에 kernel 연결
         
         `python -m ipykernel install —user —name 가상환경이름`
-        
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b3370e56-6649-4719-a578-0d3c3bebc05d/Untitled.png)
         
     3. 주피터 노트북 실행
         
@@ -40,14 +36,9 @@
         
     4. 내가 만든 가상환경 지정
         
-        ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c96bc1ec-9d34-4b52-88ea-d0fe840c03f4/Untitled.png)
-        
-        
         
 ## .ipynb to .py
-https://beyonddata.tistory.com/entry/ipynb-to-py-%EB%B3%80%ED%99%98-%EB%B0%A9%EB%B2%95%EC%A3%BC%ED%94%BC%ED%84%B0-%EB%85%B8%ED%8A%B8%EB%B6%81-to-%ED%8C%8C%EC%9D%B4%EC%8D%AC
-
-
+[.ipynb to .py](https://beyonddata.tistory.com/entry/ipynb-to-py-%EB%B3%80%ED%99%98-%EB%B0%A9%EB%B2%95%EC%A3%BC%ED%94%BC%ED%84%B0-%EB%85%B8%ED%8A%B8%EB%B6%81-to-%ED%8C%8C%EC%9D%B4%EC%8D%AC)
 
 
 
