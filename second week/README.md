@@ -1,5 +1,7 @@
 # k-최근접 이웃 회귀 알고리즘 [7/24]
 
+[[머신러닝] K-최근접 이웃 회귀 (K-NN Regression) 개념 및 실습](https://rebro.kr/184)
+
 - 주변의 가장 가까운 K개의 샘플을 통해 값을 예측하는 방식 (예 : 평균)
 - KNeighborsRegressor 클래스
     
